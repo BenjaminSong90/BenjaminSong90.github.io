@@ -2,3 +2,4 @@ baseURL = 'https://benjaminsong90.github.io/'
 languageCode = 'zh-cn'
 title = '宋浪的博客'
 theme = 'paper'
+copyright = "© 2025, songlang"

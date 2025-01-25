@@ -6,3 +6,16 @@ copyright = "© 2025, songlang"
 
 [params]
     favicon = "/favicon.ico"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 10

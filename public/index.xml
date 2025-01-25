@@ -16,5 +16,19 @@
       <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;p&gt;Hello World!&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hi，我叫宋浪，我从2015年开始从事android开发，现在工作生活在上海&lt;br&gt;&#xA;熟悉java、kotlin、golang、js、ts&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;邮箱：benjamin.song90[at]gmail.com&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
